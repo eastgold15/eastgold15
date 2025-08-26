@@ -49,6 +49,6 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,bun,drizzle,postgresql,git,github,python" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,bun,postgresql,git,github,python" />
 
 </div>
