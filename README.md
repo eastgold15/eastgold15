@@ -5,7 +5,11 @@
 
 </div>
 
-<https://card.shiina.xyz/card/eastgold15>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/eastgold15?theme=github_dark" />
+  <img src="https://card.shiina.xyz/card/eastgold15" alt="GitHub Stats" />
+</picture>
 
 
   <img width="200%" src="https://cdn.jsdelivr.net/gh/eastgold15/eastgold15/assets/images/hr.gif" />
@@ -13,7 +17,7 @@
 # 🙋 become a fullstack developer
 
 <div align="center">
-<p>&emsp;&emsp;嗨，你好！我想成为全栈的开发者。</p>
+<p>&emsp;&emsp;嗨，你好！我会成为全栈开发工程师</p>
 </div>
 
 <div align="center">
