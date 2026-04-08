@@ -68,19 +68,17 @@
 
 <div align="center">
   <h3>💻 核心项目</h3>
-  
+
   <a href="https://github.com/eastgold15/shop2">
     <img src="https://img.shields.io/badge/🛒-Shop2_电商系统-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Shop2">
   </a>
   <br>
-  <sub>基于现代技术栈构建的高性能电商解决方案</sub>
+  <sub>基于现代技术栈构建的高性能电商解决方案(独立站)</sub>
   <br><br>
-  
+
   <a href="https://github.com/eastgold15/shop2">
-    <img src="https://img.shields.io/badge/TypeScript-4.9.5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS">
-    <img src="https://img.shields.io/badge/React-18.0-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/TypeScript-6.0.1-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS">
+    <img src="https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Bun.js-LTS-339933?style=flat-square&logo=Bun&logoColor=white" alt="Bun">
   </a>
 </div>
-
-
