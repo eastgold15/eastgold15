@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/eastgold15?theme=github_dark" />
   <img src="https://card.shiina.xyz/card/eastgold15" alt="GitHub Stats" />
 </picture>
