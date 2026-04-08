@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=console.log\(%22Hello%2C%20全栈%22\);elysia、bun!\&center=true\&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=console.log\(%22我一定会成为%2C%20不被看好的全栈工程师%22\);elysia、bun!\&center=true\&size=27)](https://git.io/typing-svg)
 
 </div>
 
